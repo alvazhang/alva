@@ -1,6 +1,15 @@
 ## 欢迎来到我的个人空间
 
-技术交流
+{% highlight cpp %}
+#include <iostream>
+
+int main(int argc, char* argv[])
+{
+	std::cout<<"Hello World."<<std::endl;
+	
+	return 0;
+}
+{% endhighlight %}
 
 ### 前端技术
 
