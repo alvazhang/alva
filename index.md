@@ -1,14 +1,18 @@
 ## 欢迎来到我的个人空间
 
 {% highlight cpp %}
-#include <iostream>
-
-int main(int argc, char* argv[])
-{
-	std::cout<<"Hello World."<<std::endl;
-	
-	return 0;
-}
+#define __________(a,b) a##b
+#define _________ }
+#define ________ putchar
+#define _______ __________(ma,in)
+#define _(a) ________(a);
+#define ______ _______(){
+#define __ ______ _(0x48)_(0x65)_(0x6C)_(0x6C)
+#define ___ _(0x6F)_(0x2C)_(0x20)_(0x77)_(0x6F)
+#define ____ _(0x72)_(0x6C)_(0x64)_(0x21)
+#define _____ __ ___ ____ _________
+#include<stdio.h>
+_____
 {% endhighlight %}
 
 ### 前端技术
